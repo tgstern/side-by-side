@@ -1,6 +1,6 @@
 # Side by Side
 
-Parallel programs written in C and Python.
+Parallel programs written in C and Python. Requires <cs50.h> header file.
 
 Cash finds the smallest number of coins that make up a given dollar amount.
 
